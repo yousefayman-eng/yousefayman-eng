@@ -1,6 +1,6 @@
 # Hi, I'm Yousef Ayman 👋
 
-🎓 Computer Engineering student @ MNU, Class of 2027 (Ranked 3rd in cohort)
+🎓 Computer Engineering student @ MNU, Class of 2028 (Ranked 3rd in cohort)
 ☁️ Learning Cloud & DevOps: Docker, Kubernetes, Terraform, AWS, and CI/CD
 
 ## 🛠️ Skills
