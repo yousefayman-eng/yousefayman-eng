@@ -7,7 +7,7 @@
 
 - **Languages:** Python, Java, C++, Assembly (8051 & PIC)
 - **Core CS:** Data Structures & Algorithms, OOP
-- **Cloud & Virtualization:** Cloud Fundamentals (Azure, AZ-900 curriculum), Virtualization
+- **Cloud & Virtualization:** Cloud Fundamentals (Azure AZ-900), Virtualization
 - **Databases:** Oracle DB
 
 ## 🚀 Projects
