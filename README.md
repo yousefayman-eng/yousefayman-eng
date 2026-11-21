@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yousef Ayman 👋
 
-<!--
-**yousefayman-eng/yousefayman-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student @ MNU, Class of 2027 (Ranked 3rd in cohort)
+☁️ Learning Cloud & DevOps: Docker, Kubernetes, Terraform, AWS, and CI/CD
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Java, C++, Assembly (8051 & PIC)
+- **Core CS:** Data Structures & Algorithms, OOP
+- **Cloud & DevOps:** Docker, Kubernetes, Terraform, GitHub Actions, AWS, CI/CD Pipelines
+- **Databases:** Oracle DB
+
+## 🚀 Projects
+
+- **[solar-system-app](https://github.com/yousefayman-eng/solar-system-app)** — Node.js app deployed to AWS EKS with Docker, Kubernetes, Terraform, and a GitHub Actions CI/CD pipeline
+- **[MNU-Refine-Studio](https://github.com/yousefayman-eng/MNU-Refine-Studio)** — Python desktop app for advanced image processing and real-time histogram analysis
+- **[Library-Management-System](https://github.com/yousefayman-eng/Library-Management-System)** — Library Management System built with Python, CustomTkinter, and Oracle DB
+
+## 📫 Connect
+
+- LinkedIn: [in/yousefaymann](https://linkedin.com/in/yousefaymann)
